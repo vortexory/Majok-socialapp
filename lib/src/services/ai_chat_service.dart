@@ -13,7 +13,7 @@ class AIChatService {
 
   static const String _apiKey = String.fromEnvironment(
     'GEMINI_API_KEY',
-    defaultValue: 'AIzaSyClEkMWAUVTcXT4dGGiGh1jJPqkWxktJQs', // Fallback if no .env
+    defaultValue: '', // Fallback if no .env
   );
 
   GenerativeModel? _model;
