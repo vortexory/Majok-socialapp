@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "50344211119",
+    "project_id": "futu-1031b",
+    "storage_bucket": "futu-1031b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50344211119:android:f9a18ad44438e82ccf5a5a",
+        "android_client_info": {
+          "package_name": "com.example.futu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjyOdOjyloHfEhBbH7g1p_q8TnKyZil3c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
